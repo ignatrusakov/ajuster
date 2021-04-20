@@ -1,0 +1,1 @@
+Powershell -Command C:\Users\%username%\Desktop\Adjuster\main.ps1 2> log.txt
